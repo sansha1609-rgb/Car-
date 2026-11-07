@@ -1,0 +1,6 @@
+{
+  "name": "Car Launcher",
+  "description": "Modern, premium and responsive Android Car Launcher application designed for 9-inch 1280x720 landscape car head units with home dashboard, app drawer, phone, music, navigation, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Iconic Suzuki Stylized Geometric 'S' Logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,12 L78,12 L68,26 L42,26 L65,48 L80,48 L70,62 L32,62 L22,48 L56,48 L33,26 L20,26 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,88 L22,88 L32,74 L58,74 L35,52 L20,52 L30,38 L68,38 L78,52 L44,52 L67,74 L80,74 Z" />
+</vector>
